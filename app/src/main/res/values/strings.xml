@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Add_no1">Add No1</string>
+    <string name="Add_no2">Add No2</string>
+    <string name="sum">+</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="sub">-</string>
+    <string name="Total">Total of Number</string>
+    <string name="Btn">Calculate</string>
+    <string name="title_activity_second">second</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="click">Click</string>
+    <string name="click_here_to_load_contacts">Click Here to load Contacts</string>
+    <string name="name">Name :</string>
+    <string name="home">HOME</string>
+    <string name="title_activity_home">Home</string>
+    <string name="cal">Calculator</string>
+    <string name="Contact">Contact Reader</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Profile</string>
+    <string name="sync_header">Other</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Change Your Name</string>
+    <string name="reply_title">Change Profile Image</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Grant Permission</string>
+    <string name="attachment_title">Verify Email</string>
+    <string name="attachment_summary_on">Verify Mobile No
+    </string>
+
+
+</resources>
